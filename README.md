@@ -31,7 +31,7 @@ Dev Cuiabano 🌿 | 19 anos | Estudante de Análise e Desenvolvimento de Sistema
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://es.vecteezy.com/png/22100686-java-logo-transparente-pn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)g" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
