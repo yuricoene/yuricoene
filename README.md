@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Dev Cuiabano 🌿 | 19 anos | Estudante de Análise e Desenvolvimento de Sistemas na **UniSENAI** | focado no ecossistema **Java & Spring**.
+Dev🌿 | 19 anos | Estudante de Análise e Desenvolvimento de Sistemas na **UniSENAI** | focado no ecossistema **Java & Spring**.
 
 <p align="left">
     <a href="https://github.com/yuricoene?tab=repositories&sort=stargazers">
