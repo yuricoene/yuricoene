@@ -17,10 +17,8 @@
             src="https://custom-icon-badges.demolab.com/github/followers/yuricoene?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    Desenvolvedor Backend Java/Spring Boot, com base em POO, SQL e APIs RESTful. Experiência com análise de dados, Git e boas práticas de engenharia de software, focado em soluções limpas e escaláveis.
 </p>
-
-<p> Desenvolvedor Backend Java/Spring Boot, com base em POO, SQL e APIs RESTful. Experiência com análise de dados, Git e boas práticas de engenharia de software, focado em soluções limpas e escaláveis. </p>
----
 
 ### 🤖 Linguagens e Tecnologias
 <img 
