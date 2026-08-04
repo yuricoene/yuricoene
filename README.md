@@ -19,6 +19,7 @@
     </a>
 </p>
 
+<p> Desenvolvedor Backend Java/Spring Boot, com base em POO, SQL e APIs RESTful. Experiência com análise de dados, Git e boas práticas de engenharia de software, focado em soluções limpas e escaláveis. </p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
