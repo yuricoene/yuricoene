@@ -1,8 +1,6 @@
 # Yuri Coene
 
-**`Desenvolvedor back-end`**
-
-Dev🌿 | 19 anos | Estudante de Análise e Desenvolvimento de Sistemas na **UniSENAI** | focado no ecossistema **Java & Spring**.
+**`Engenheiro de Software`**
 
 <p align="left">
     <a href="https://github.com/yuricoene?tab=repositories&sort=stargazers">
