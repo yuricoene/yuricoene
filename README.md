@@ -2,9 +2,17 @@
 
 **`Engenheiro de Software`**
 
-<p align="left">
+<p align="center">
     <p> Me chamo Yuri Coene, sou engenheiro de software e realizo projetos fullstack. Me interesso por sistemas que sobrevivem à realidade. Aqui você vai encontrar projetos e experimentos com algumas tecnologias do meu cotidiano. </p>
 </p>
+
+---
+
+## Sobre mim
+
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4º semestre)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 <img 
