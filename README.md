@@ -1,7 +1,7 @@
 **`Engenheiro de Software`**
 <div align="left">
 
-Sou **Engenheiro de Software** e realizo projetos fullstack. Tenho grande interesse por sistemas robustos que *sobrevivem à realidade*. 
+Realizo projetos fullstack. Tenho grande interesse por sistemas robustos que *sobrevivem à realidade*. 
 Por aqui, você vai encontrar meus projetos e experimentos com algumas tecnologias do meu cotidiano.
 
 Sobre mim
