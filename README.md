@@ -1,33 +1,23 @@
-<div align="center">
 **`Engenheiro de Software`**
-<p>
-  sou engenheiro de software e realizo projetos fullstack. Me interesso por sistemas que sobrevivem à realidade. Aqui você vai encontrar projetos e experimentos com algumas tecnologias do meu cotidiano.
-</p>
+<div align="center">
+<br />
 
-## 👤 Sobre mim
+Me chamo Yuri Coene, sou engenheiro de software e realizo projetos fullstack.  
+Me interesso por sistemas que sobrevivem à realidade.  
+Aqui você vai encontrar projetos e experimentos com algumas tecnologias do meu cotidiano.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4º semestre)
+<br />
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    alt="Java" 
-    title="Java"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
 
 </div>
