@@ -3,21 +3,7 @@
 **`Engenheiro de Software`**
 
 <p align="left">
-    <a href="https://github.com/yuricoene?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/yuricoene?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/yuricoene?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/yuricoene?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <p> Desenvolvedor Backend Java/Spring Boot, com base em POO, SQL e APIs RESTful. Experiência com análise de dados, Git e boas práticas de engenharia de software, focado em soluções limpas e escaláveis. </p>
+    <p> Me chamo Yuri Coene, sou engenheiro de software e realizo projetos fullstack. Me interesso por sistemas que sobrevivem à realidade. Aqui você vai encontrar projetos e experimentos com algumas tecnologias do meu cotidiano. </p>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
